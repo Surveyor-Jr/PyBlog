@@ -22,3 +22,10 @@ Once that is a success, you are ready to install any package and build.
 In every source-code included in this repository, every package required for the source to work will be highligted at the top level of the source file. 
 
 Check the top comment highlighted using `***` at start and end. Copy and past sections into terminal or CMD 
+
+## Articles, Blogs & Tutorials
+
+The following articles have provided reference to the source code contained in this Repo 
+
+- [Coordinate Transformation with Python](https://surveyor-jr.tech/coordinate-transformation-with-python/)
+- [Batch Coordinate Transformation](https://surveyor-jr.tech/batch-coordinate-transformation/)
