@@ -26,7 +26,7 @@ dict = {'Y': y_list,
         'X_Trans': x_coords,
     }
 
-df_new =pd.DataFrame(dict)
+df_new = pd.DataFrame(dict)
 
 # convert to CSV
 df_new.to_csv('file_storage/converted_coordinates.csv')
