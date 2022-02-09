@@ -29,3 +29,4 @@ The following articles have provided reference to the source code contained in t
 
 - [Coordinate Transformation with Python](https://surveyor-jr.tech/coordinate-transformation-with-python/)
 - [Batch Coordinate Transformation](https://surveyor-jr.tech/batch-coordinate-transformation/)
+- [Interactively Edit Geographic Data in a JupyterNotebook](https://surveyor-jr.tech/interactively-edit-geographic-data-in-jupyter-notebook/)
