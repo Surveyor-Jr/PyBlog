@@ -29,6 +29,6 @@ The following **articles** have provided reference to the source code contained 
 
 - [Coordinate Transformation with Python](https://surveyor-jr.tech/coordinate-transformation-with-python/)
 - [Batch Coordinate Transformation](https://surveyor-jr.tech/batch-coordinate-transformation/)
+- [Interactively Edit Geographic Data in a JupyterNotebook](https://surveyor-jr.tech/interactively-edit-geographic-data-in-jupyter-notebook/)
 
-The following **You-Tube** videos also provide reference to the source code contained in this repo 
-
+The following **You-Tube** videos provide reference to the source code contained in this repo. 
